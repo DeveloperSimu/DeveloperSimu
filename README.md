@@ -262,28 +262,10 @@ I use AI tools for:
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DeveloperSimu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperSimu&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperSimu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
-
-</div>
-
----
-
 <div align="center">
 
 # 🐍 `CONTRIBUTION JOURNEY`
-
+### `Code • Commit • Contribute • Grow`
 <br>
 
 <img
