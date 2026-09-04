@@ -280,11 +280,24 @@ I use AI tools for:
 
 ---
 
-# 🐍 Contribution Journey
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DeveloperSimu/DeveloperSimu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+# 🐍 `CONTRIBUTION JOURNEY`
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/DeveloperSimu/DeveloperSimu/output/github-contribution-grid-snake.svg"
+  width="95%"
+  alt="DeveloperSimu Contribution Snake"
+/>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Every+Commit+Builds+Experience;Every+Project+Tells+a+Story;Every+Contribution+Moves+Me+Forward;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Grow"
+  alt="Contribution Journey Animation"
+/>
 
 </div>
 
